@@ -1,16 +1,24 @@
-# Cleanfolio
+# Carters Portfolio 
 
-A clean and simple portfolio template built using React, if want a template built with HTML, CSS and JS then check out.
 
+
+# Description 
+A simple but effective portfolio website showcasing my work
+
+
+# Technology 
+React, JS, CSS
 
 
 ## Instructions
+
+
 
 ### Setup
 
 ```shell
 git clone 
-cd cleanfolio
+cd 
 ```
 
 
@@ -32,12 +40,6 @@ Install and run -
 yarn
 yarn start
 ```
-
-
-
-- Push the changes.
-
-- Build and deploy -
 
 ```shell
 yarn build
