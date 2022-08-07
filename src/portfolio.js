@@ -1,11 +1,11 @@
 const header = {
-  // all the properties are optional - can be left empty or deleted
+ 
   homepage: '',
   title: 'JS.',
 }
 
 const about = {
-  // all the properties are optional - can be left empty or deleted
+  
   name: 'Carter Nadain',
   role: 'Full Stack Engineer',
   description:
@@ -18,8 +18,7 @@ const about = {
 }
 
 const projects = [
-  // projects can be added an removed
-  // if there are no projects, Projects section won't show up
+ 
   {
     name: 'Recipe Hub',
     description:"encapsulates code created so you can get latest recipes for food and cocktails.",
@@ -47,8 +46,7 @@ const projects = [
 ]
 
 const skills = [
-  // skills can be added or removed
-  // if there are no skills, Skills section won't show up
+ 
   'HTML',
   'CSS',
   'JavaScript',
@@ -64,7 +62,7 @@ const skills = [
 ]
 
 const contact = {
-  // email is optional - if left empty Contact section won't show up
+ 
   email: 'Cnadain@gmail.com',
 }
 
