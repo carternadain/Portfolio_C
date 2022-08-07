@@ -2,16 +2,16 @@
 
 
 
+# Screenshot of webpage
+(/images/website.png) 
+
+
 # Description 
 A simple but effective portfolio website showcasing my work
 
 
 # Technology 
 React, JS, CSS
-
-
-## Instructions
-
 
 
 ### Setup

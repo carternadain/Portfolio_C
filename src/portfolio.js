@@ -25,8 +25,8 @@ const projects = [
     description:"encapsulates code created so you can get latest recipes for food and cocktails.",
 
     stack: ['JS', 'CSS', 'HTML'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+    sourceCode: 'https://github.com/mmilner29/the-recipe-hub',
+    livePreview: 'https://mmilner29.github.io/the-recipe-hub/',
   },
   {
     name: 'Social Network API"',
